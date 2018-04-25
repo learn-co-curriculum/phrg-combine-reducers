@@ -235,3 +235,4 @@ So you can see that both the __booksReducer()__ and the __authorsReducer()__ wil
 + [Implementing Combine Reducers from Scratch](https://egghead.io/lessons/javascript-redux-implementing-combinereducers-from-scratch)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/combine-reducers-codealong'>Combine Reducers Codealong</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Redux Combine Reducers</p>
